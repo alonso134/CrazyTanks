@@ -15,6 +15,7 @@ Compare to the ofiicial Unity project, this version contains:
 - Endgame menu
 - Improved firing controller
 - other minor bug fixes
+
 ## Modify or extend this project
 Unfortunately this project is only available for download-and-play since this is its first pre-alpha version, however the project's package for Unity Engine will be released in the future.
 
