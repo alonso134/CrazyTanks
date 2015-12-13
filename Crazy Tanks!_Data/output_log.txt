@@ -17,24 +17,24 @@ Loading D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\UnityEngine.U
 Platform assembly: D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
 Platform assembly: D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.144 seconds
+- Completed reload, in  0.145 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
 Platform assembly: D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
-  Thread -> id: cdc -> priority: 1 
-  Thread -> id: 3420 -> priority: 1 
+  Thread -> id: 9f0 -> priority: 1 
+  Thread -> id: 63cc -> priority: 1 
 Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 7.798674 ms
+UnloadTime: 7.720414 ms
 
 Unloading 121 unused Assets to reduce memory usage. Loaded Objects now: 1145.
-Total: 0.666710 ms (FindLiveObjects: 0.078688 ms CreateObjectMapping: 0.052601 ms MarkObjects: 0.400282 ms  DeleteObjects: 0.117604 ms)
+Total: 0.599569 ms (FindLiveObjects: 0.064575 ms CreateObjectMapping: 0.032073 ms MarkObjects: 0.384887 ms  DeleteObjects: 0.113755 ms)
 
 Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
-UnloadTime: 3.629488 ms
+UnloadTime: 3.438327 ms
 
 Unloading 92 unused Assets to reduce memory usage. Loaded Objects now: 1198.
-Total: 0.576048 ms (FindLiveObjects: 0.070562 ms CreateObjectMapping: 0.024376 ms MarkObjects: 0.385742 ms  DeleteObjects: 0.094938 ms)
+Total: 0.540125 ms (FindLiveObjects: 0.068852 ms CreateObjectMapping: 0.029508 ms MarkObjects: 0.366498 ms  DeleteObjects: 0.074839 ms)
 
