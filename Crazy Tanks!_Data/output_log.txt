@@ -19,9 +19,9 @@ Loading D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\UnityEngine.N
 Platform assembly: D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\System.Core.dll (this message is harmless)
 - Completed reload, in  0.144 seconds
 desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
-<RI> Initializing input.
-<RI> Input initialized.
-<RI> Initialized touch support.
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
 Platform assembly: D:\Completed Projects\CrazyTanks\Crazy Tanks!_Data\Managed\System.dll (this message is harmless)
 Setting up 2 worker threads for Enlighten.
   Thread -> id: cdc -> priority: 1 
