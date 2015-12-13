@@ -1,5 +1,5 @@
 # CrazyTanks v0.01
-This is an "extended version" of Unity 5 TANKS! project, **all rights belongs to Unity Technologies**.
+This is an "extended version" of Unity 5 TANKS! project, **all rights belong to Unity Technologies**.
 
 ## Download
 The game can be downloaded as .zip file:
